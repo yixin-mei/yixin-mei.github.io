@@ -12,19 +12,21 @@ author_profile: true
 {% include base_path %}
 
 ## Publication
-{% for post in site.research reversed %}
+{% for post in site.publications reversed %}
   {% if post.pubtype == 'publication' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
 ## Working Paper
-{% for post in site.research reversed %}
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'workingpaper' %}
       {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 ## Work in Progress
-{% for post in site.research reversed %}
+{% for post in site.publications reversed %}
   {% if post.pubtype == 'workinprogress' %}
       {% include archive-single.html %}
   {% endif %}
