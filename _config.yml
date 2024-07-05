@@ -12,7 +12,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yixin Mei"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yixin-mei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yixin-mei/yixin-mei.github.io"
 
