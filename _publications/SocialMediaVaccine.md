@@ -1,7 +1,7 @@
 ---
 title: "Social Media and Government Responsiveness: Evidence from Vaccine Procurement in China (with Yanhui WU)"
-collection: research
-permalink: /research/2009-10-01-paper-title-number-1
+collection: publications
+permalink: /publication/SocialMediaVaccine
 pubtype: 'workingpaper'
 excerpt: 'Abstract: This paper studies how public opinion on social media affects local governments’ procurement of vaccines in China during 2014-2019. To establish causality, we exploit city-level variation in the eruption of online opinion on vaccine safety, instrumented by quasi-random early penetration of social media. We find that governments in cities exposed to stronger social media shocks increased the share of more-transparent procurement and shifted procurement from small local suppliers to reputable nonlocal suppliers. The effect is driven by posts expressing anti-government sentiment instead of posts containing investigative information and is larger in cities where local officials face higher top-down political pressure.'
 # date: 2009-10-01
