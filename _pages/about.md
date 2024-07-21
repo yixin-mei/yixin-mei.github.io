@@ -13,4 +13,4 @@ My research interest focuses on media economics, digital economics, and corporat
 
 You can find my CV here: [CV]()
 
-You can reach out to me by yixin_mei@connect.hku.hk
+You can reach out to me by [yixin_mei@connect.hku.hk]()
