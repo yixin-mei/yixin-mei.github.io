@@ -1,5 +1,5 @@
 ---
-title: "Business Capture under Crisis: Evidence from Corporate Advertising on Chinese Newspaper Market"
+title: "Business Capture under Transition: Evidence from Corporate Advertising on Chinese Newspaper Market"
 collection: publications
 permalink: /publication/MediaCapture
 pubtype: 'workingpaper'
