@@ -1,7 +1,7 @@
 ---
-title: "Media Capture in China (with David Stromberg and Yanhui Wu)"
+title: "Negative Shocks and Advertising Strategy: Evidence from Chinese Newspaper Market"
 collection: publications
-permalink: /publication/MediaCapture
+permalink: /publication/MediaCaptureAds
 pubtype: 'workingpaper'
 excerpt: ''
 # date: 2009-10-01

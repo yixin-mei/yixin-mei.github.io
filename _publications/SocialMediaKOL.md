@@ -1,5 +1,5 @@
 ---
-title: "Key Opinion Leaders on Chinese Social Media"
+title: "Who Becomes Key Opinion Leaders on Chinese Social Media? (with Chun Hui, Lucy Xia, Yanhui Wu)"
 collection: publications
 permalink: /publication/SocialMediaKOL
 pubtype: 'workinprogress'

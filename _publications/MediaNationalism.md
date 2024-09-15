@@ -1,5 +1,5 @@
 ---
-title: "The Anti-Japan Nationalism and Business Cycles"
+title: "How Do Consumers Respond to Misinformation? Evidence from the Japanese Nuclear Contamination (with Ruoyu Qian)"
 collection: publications
 permalink: /publication/MediaNationalism
 pubtype: 'workinprogress'

@@ -1,5 +1,5 @@
----
-title: "Family Business in Entertainment Industry"
+ ---
+title: "Why Do Superstars Hire Their Moms as Agents? Evidence from the Entertainment Industry in China"
 collection: publications
 permalink: /publication/FamilyBusiness
 pubtype: 'workinprogress'
