@@ -1,5 +1,5 @@
 ---
-title: "Media Capture in China (with David Stromberg and Yanhui Wu)"
+title: "Media Capture in China (with David Strömberg and Yanhui Wu)"
 collection: publications
 permalink: /publication/MediaCapture
 pubtype: 'workinprogress'
