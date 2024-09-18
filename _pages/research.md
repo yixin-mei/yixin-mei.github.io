@@ -17,14 +17,14 @@ author_profile: true
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
+<br><br>
 ## Working Paper
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'workingpaper' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
+<br><br>
 ## Work in Progress
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'workinprogress' %}
