@@ -1,7 +1,7 @@
 ---
-title: "Can Arms Breed Peace? The Consequence of Arms Imports from the US on Civil Wars (with Xiaoyu He)"
+title: "[Can Arms Breed Peace? The Consequence of Arms Imports from the US on Civil Wars (with Xiaoyu He)](http://academicpages.github.io/files/1-s2.0-S0147596723000653-main.pdf)"
 collection: publications
-permalink: 'http://yixin-mei.github.io/files/1-s2.0-S0147596723000653-main.pdf''
+# permalink: /publication/ArmsConflict
 pubtype: 'publication'
 # excerpt: ''
 # date: 2009-10-01
