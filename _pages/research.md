@@ -10,24 +10,21 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-<div style="padding-top: 50px;">
+<br>
 ## Publication
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'publication' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-</div>
-<div style="padding-top: 50px;">
+<br>
 ## Working Paper
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'workingpaper' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-</div>
-<div style="padding-top: 50px;">
+<br>
 ## Work in Progress
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'workinprogress' %}
