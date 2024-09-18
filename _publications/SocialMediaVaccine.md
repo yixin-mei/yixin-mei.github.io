@@ -5,7 +5,7 @@ collection: publications
 pubtype: 'workingpaper'
 excerpt: ''
 # date: 2009-10-01
-venue: 'Rej & Resubmit at American Economic Review'
+venue: 'Rej & Resubmit at <strong>American Economic Review</strong>'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

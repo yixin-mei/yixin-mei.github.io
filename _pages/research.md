@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ## Publication
-<div style="margin-top: 20px;">
+<div style="margin-top: 50px;">
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'publication' %}
       {% include archive-single.html %}
@@ -20,7 +20,7 @@ author_profile: true
 {% endfor %}
 </div>
 ## Working Paper
-<div style="margin-top: 20px;">
+<div style="margin-top: 50px;">
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'workingpaper' %}
       {% include archive-single.html %}
@@ -28,7 +28,7 @@ author_profile: true
 {% endfor %}
 </div>
 ## Work in Progress
-<div style="margin-top: 20px;">
+<div style="margin-top: 50px;">
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'workinprogress' %}
       {% include archive-single.html %}
