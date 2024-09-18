@@ -1,6 +1,7 @@
 ---
 title: "Media Capture in China (with David Strömberg and Yanhui Wu)"
 collection: publications
+# permalink: /publication/MediaCapture
 pubtype: 'workinprogress'
 excerpt: ''
 # date: 2009-10-01
