@@ -1,7 +1,7 @@
 ---
 title: "Can Arms Breed Peace? The Consequence of Arms Imports from the US on Civil Wars (with Xiaoyu He)"
 collection: publications
-# permalink: /publication/ArmsConflict
+permalink: /publication/ArmsConflict
 pubtype: 'publication'
 # excerpt: ''
 # date: 2009-10-01
