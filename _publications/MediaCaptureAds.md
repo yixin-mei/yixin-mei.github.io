@@ -1,7 +1,7 @@
 ---
-title: "Negative Shocks and Advertising Strategy: Evidence from Chinese Newspaper Market"
+title: "Negative Shocks and Advertising Strategy: Evidence from Chinese Newspapers"
 collection: publications
-permalink: /publication/MediaCaptureAds
+# permalink: /publication/MediaCaptureAds
 pubtype: 'workingpaper'
 excerpt: ''
 # date: 2009-10-01

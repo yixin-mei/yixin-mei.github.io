@@ -1,7 +1,7 @@
 ---
-title: "How Do Consumers Respond to Misinformation? Evidence from the Japanese Nuclear Contamination (with Ruoyu Qian)"
+title: "How Do Consumers Respond to Misinformation? Evidence from Japanese Nuclear Emissions (with Ruoyu Qian)"
 collection: publications
-permalink: /publication/MediaNationalism
+# permalink: /publication/MediaNationalism
 pubtype: 'workinprogress'
 excerpt: ''
 # date: 2009-10-01

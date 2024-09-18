@@ -1,7 +1,7 @@
 ---
-title: "Why Do Superstars Hire Their Moms as Agents? Evidence from the Entertainment Industry in China (with Yele Ma)"
+title: "Why Do Superstars Hire Their Moms as Agents? (with Yele Ma)"
 collection: publications
-permalink: /publication/FamilyBusiness
+# permalink: /publication/FamilyBusiness
 pubtype: 'workinprogress'
 excerpt: ''
 # date: 2009-10-01

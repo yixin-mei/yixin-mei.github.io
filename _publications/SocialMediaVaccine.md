@@ -1,7 +1,7 @@
 ---
 title: "Social Media and Government Responsiveness: Evidence from Vaccine Procurement in China (with Yanhui Wu)"
 collection: publications
-permalink: /publication/SocialMediaVaccine
+# permalink: /publication/SocialMediaVaccine
 pubtype: 'workingpaper'
 excerpt: ''
 # date: 2009-10-01
