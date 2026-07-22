@@ -8,7 +8,7 @@ excerpt: ''
 venue: '<span style="margin-left: 20px;">Reject & Resubmit at <strong>American Economic Review</strong></span>'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://yixin-mei.github.io/files/SocialMedia_Vaccine.pdf'
-appendixurl: '/files/SocialMedia_Vaccine_Theory_Appendix.pdf'
+appendixurl: 'http://yixin-mei.github.io/files/SocialMedia_Vaccine_Theory_Appendix.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
