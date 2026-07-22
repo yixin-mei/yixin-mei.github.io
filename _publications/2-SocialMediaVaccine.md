@@ -5,7 +5,7 @@ collection: publications
 pubtype: 'workingpaper'
 excerpt: ''
 # date: 2009-10-01
-venue: '<span style="margin-left: 20px;">Reject & Resubmit at <strong>American Economic Review</strong></span>'
+# venue: '<span style="margin-left: 20px;">Reject & Resubmit at <strong>American Economic Review</strong></span>'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://yixin-mei.github.io/files/SocialMedia_Vaccine.pdf'
 appendixurl: 'http://yixin-mei.github.io/files/SocialMedia_Vaccine_Theory_Appendix.pdf'
