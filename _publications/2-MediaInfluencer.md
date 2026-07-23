@@ -3,7 +3,7 @@ title: "Influencers and Media Power: The Fads of Consuming Traditional Chinese M
 collection: publications
 # permalink: /publication/MediaCaptureAds
 pubtype: 'workingpaper'
-excerpt: ''
+# excerpt: ''
 # date: 2009-10-01
 venue: '<span style="margin-left: 20px;">Draft Available Upon Request</span>'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
