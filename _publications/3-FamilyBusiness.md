@@ -1,5 +1,5 @@
 ---
-title: "Why Do Superstars Hire Their Moms as Agents? (with Yele Ma)"
+title: "AAutonomy and Exploration in Entertainment Market (with Yele Ma)"
 collection: publications
 # permalink: /publication/FamilyBusiness
 pubtype: 'workinprogress'
